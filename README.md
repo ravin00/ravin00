@@ -1,5 +1,5 @@
  # About Me 🤓:
-Hi I'm Ravin Bandara. I'm currently studying Data Science at SLIIT Malabe. Interested and currently learning ethical hacking and full-stack developing.
+Hi I'm Ravin Bandara and i'm currently studying Data Science at SLIIT Malabe. Interested and currently learning ethical hacking and full-stack developing.
 
 
 ## 🌐 Socials:
