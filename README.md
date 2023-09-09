@@ -1,6 +1,4 @@
-# 🤓
-smiling face with glasses
-Unicode: U+1F913, UTF-8: F0 9F A4 93 About Me:
+About Me 🤓:
 Hi I'm Ravin Bandara. I'm currently studying Data Science at SLIIT Malabe. Interested and currently learning ethical hacking and full-stack developing.
 
 
