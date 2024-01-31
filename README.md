@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ravin Bandara I'm a software engineering undergraduate at SLIIT</h2>
+<h2 align="left">Hi 👋! My name is Ravin Bandara.Software engineering undergraduate at SLIIT</h2>
 
 ###
 
