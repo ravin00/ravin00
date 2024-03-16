@@ -1,1 +1,1 @@
-<h3>BSc (Hons) in Information Technology Specialising in Software Engineering</h3>
+<h4>BSc (Hons) in Information Technology Specialising in Software Engineering</h4>
