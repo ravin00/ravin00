@@ -2,6 +2,7 @@
 
 
 <h4>Undergraduate at SLIIT</h4>
+<h4>Tech Enthusiastic</h4>
 <h1 align="center">Hi 👋, I'm Ravin Bandara</h1>
 <h3 align="center">A passionate Full-Stack developer from Srilanka</h3>
 
