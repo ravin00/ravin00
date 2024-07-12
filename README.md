@@ -16,4 +16,3 @@
 
 
 
-![snake gif](https://github.com/ravin00/ravin00/blob/output/snake.svg)
