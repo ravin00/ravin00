@@ -10,6 +10,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br><br>[![TS, React, NEXT](https://skillicons.dev/icons?i=ts,react,nextjs)]()
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin00&show_icons=true&locale=en&layout=compact" alt="ravin00" /></p>
