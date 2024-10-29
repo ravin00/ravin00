@@ -9,7 +9,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/ravin__07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ravin__07/" height="30" width="40" /></a>
 </p>
 
-<br><br><h1 align="center">Languages and Frameworks</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,c,cpp,python,php,kotlin,go,nodejs,expressjs)]()
+<br><br><h1 align="center">Languages and Frameworks</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,c,cpp,python,springboot,php,kotlin,go,nodejs,expressjs)]()
 <br><br><h1 align="center">Databases and Tools</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=mongodb,mysql,terraform,kubernetes,docker,)]()
 
 
