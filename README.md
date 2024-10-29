@@ -10,7 +10,7 @@
 </p>
 
 <br><br><h1 align="center">Languages and Frameworks</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,sass,react,nextjs,angular,ts,go,c,cpp,java,python,fastapi,spring,php,kotlin,nodejs,expressjs)]()
-<br><br><h1 align="center">Databases and Tools</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,terraform,kubernetes,docker,grafana)]()<br><br>
+<br><br><h1 align="center">Databases and Tools</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,terraform,kubernetes,docker,grafana)]()<br><br><br><br>
 
 
 
