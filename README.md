@@ -10,6 +10,7 @@
 </p>
 
 <br><br>[![TS, React, NEXT](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,c,cpp,python,php,kotlin,go,nodejs,expressjs,mongodb,mysql,terraform,kubernetes,docker,)]()
+<br><br>[![TS, React, NEXT](https://skillicons.dev/icons?i=mongodb,mysql,terraform,kubernetes,docker,)]()
 
 
 
