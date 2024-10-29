@@ -12,7 +12,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        
-      - uses: ravin00/ravin00@main
+
+      - name: Set Up Git
+        run: |
+          git config --global user.name "ravin00"
+          git config --global user.email "it22354174@my.sliit.lk"
+
+      - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Your update script goes here, for example:
+          # echo "Updating README with GitHub activity"
+
+          # Check if README.md is modified
+          git diff --quiet || (git add README.md && git commit -m "Update README stats" && git push)
