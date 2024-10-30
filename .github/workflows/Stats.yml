@@ -11,7 +11,7 @@ on:
   issue_comment:
     types: [created, edited]
   schedule:
-    - cron: "*/30 * * *"
+    - cron: "0 * * * *"  # This runs the job once an hour
 
 jobs:
   update-readme:
@@ -26,15 +26,14 @@ jobs:
         run: |
           git config --global user.name "ravin00"
           git config --global user.email "it22354174@my.sliit.lk"
-
+      
       - name: Update README
         run: |
           # Add a random query parameter to force GitHub to refresh the cached image URLs
           sed -i 's|username=ravin00&|username=ravin00&v=$(date +%s)&|g' README.md
-
           # Commit changes if any were made
           git diff --quiet || (git add README.md && git commit -m "Update README with latest stats and activity")
-
+      
       - name: Push Changes
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
