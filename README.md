@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin00&show_icons=true&locale=en&layout=compact" alt="ravin00" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=ravin00&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ravin00&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin00&" alt="ravin00" /></p>
 
