@@ -14,14 +14,6 @@
 <br><br><h1 align="center">Languages and Frameworks</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,sass,react,nextjs,angular,ts,go,c,cpp,java,python,fastapi,spring,php,kotlin,nodejs,expressjs)]()
 <br><br><h1 align="center">Databases and Tools</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,git,github,terraform,kubernetes,docker,grafana)]()<br><br><br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ravin00&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ravin00&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravin00&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ravin00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
