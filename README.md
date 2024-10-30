@@ -12,5 +12,12 @@
 <br><br><h1 align="center">Languages and Frameworks</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,sass,react,nextjs,angular,ts,go,c,cpp,java,python,fastapi,spring,php,kotlin,nodejs,expressjs)]()
 <br><br><h1 align="center">Databases and Tools</h1>[![TS, React, NEXT](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,git,github,terraform,kubernetes,docker,grafana)]()<br><br><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravin00&show_icons=true&locale=en&layout=compact" alt="ravin00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravin00&show_icons=true&locale=en" alt="ravin00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin00&" alt="ravin00" /></p>
+
+
 
 
