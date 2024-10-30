@@ -25,7 +25,7 @@ jobs:
       - name: Set Up Git
         run: |
           git config --global user.name "ravin00"
-          git config --global user.email "ravinbandara76@gmail.com"
+          git config --global user.email "it22354174@my.sliit.lk"
       
       - name: Update README
         run: |
@@ -38,4 +38,4 @@ jobs:
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git push origin HEAD:main
+          git push https://$PAT_TOKEN@github.com/ravin00/ravin00.git HEAD:main
