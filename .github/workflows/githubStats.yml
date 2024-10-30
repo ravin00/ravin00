@@ -12,8 +12,7 @@ on:
   issue_comment:
     types: [created, edited]
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-
+    - cron: "0 */6 * * *"
 jobs:
   update-readme:
     name: Update GitHub README with latest stats
