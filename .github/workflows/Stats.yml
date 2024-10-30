@@ -1,45 +1,42 @@
-name: Update README Stats
+name: Update GitHub Profile Stats and Activity
 
 on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, closed, reopened]
+  issues:
+    types: [opened, closed, reopened]
+  issue_comment:
+    types: [created, edited]
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
+    - cron: "*/30 * * *"
 
 jobs:
   update-readme:
+    name: Update GitHub README with latest stats and activity
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: anuraghazra/github-readme-stats@master
-        with:
-          username: your_username
-          show_icons: true
-          count_private: true  # Include private repo stats
-          theme: radical  # Choose a theme
-      - uses: actions/upload-artifact@v2
-        with:
-          name: readme-stats
-          path: README.md
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - uses: actions/checkout@v2
-        with:
-          path: dist
-          fetch-depth: 0
-      - run: cp README.md dist
-      - uses: actions/github-script@v5
-        with:
-          script: |
-            github.rest.repos.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              committer: {
-                name: 'ravin00',
-                email: 'ravinbandara76@gmail.com'
-              },
-              message: 'Update README with latest stats',
-              files: [{
-                filename: 'README.md',
-                content: context.payload.artifacts[0].node.file_size > 0 ? context.payload.artifacts[0].node.download_url : null
-              }]
-            })
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Git
+        run: |
+          git config --global user.name "ravin00"
+          git config --global user.email "it22354174@my.sliit.lk"
+
+      - name: Update README
+        run: |
+          # Add a random query parameter to force GitHub to refresh the cached image URLs
+          sed -i 's|username=ravin00&|username=ravin00&v=$(date +%s)&|g' README.md
+
+          # Commit changes if any were made
+          git diff --quiet || (git add README.md && git commit -m "Update README with latest stats and activity")
+
+      - name: Push Changes
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git push origin HEAD:main
