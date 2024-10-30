@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravin Bandara</h1>
 <h3 align="center">A passionated software engineer</h3>
 
+<img src="https://raw.githubusercontent.com/ravin00/ravin00/output/snake.svg" alt="Snake animation" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravin00&label=Profile%20views&color=0e75b6&style=flat" alt="ravin00" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ravin00&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravin00&" alt="ravin00" /></p>
-
-
 
 
