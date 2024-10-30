@@ -3,10 +3,10 @@ name: Update GitHub Profile Stats
 on:
   push:
     branches:
-      - main  # Adjust to your default branch if needed
+      - main
   pull_request:
     branches:
-      - main  # Adjust to your default branch if needed
+      - main
   issues:
     types: [opened, closed, reopened]
   issue_comment:
@@ -34,10 +34,10 @@ jobs:
           sed -i 's|username=ravin00&|username=ravin00&v=$(date +%s)&|g' README.md
 
           # Commit changes if any were made
-          git diff --quiet || (git add README.md && git commit -m "Update README stats" && git push)
+          git diff --quiet || (git add README.md && git commit -m "Update README stats")
         
       - name: Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git push
+          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/ravin00/ravin00.git" HEAD:main
