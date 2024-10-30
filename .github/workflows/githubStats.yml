@@ -1,17 +1,27 @@
-name: Update GitHub Activity
+name: Update GitHub Profile Stats
 
 on:
+  push:
+    branches:
+      - main  # Adjust to your default branch if needed
+  pull_request:
+    branches:
+      - main  # Adjust to your default branch if needed
+  issues:
+    types: [opened, closed, reopened]
+  issue_comment:
+    types: [created, edited]
   schedule:
-    - cron: "30 * * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest GitHub activity
+  update-readme:
+    name: Update GitHub README with latest stats
     runs-on: ubuntu-latest
-
+    
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
       - name: Set Up Git
         run: |
@@ -19,11 +29,15 @@ jobs:
           git config --global user.email "it22354174@my.sliit.lk"
 
       - name: Update README
+        run: |
+          # Add a random query parameter to force GitHub to refresh the cached image URLs
+          sed -i 's|username=ravin00&|username=ravin00&v=$(date +%s)&|g' README.md
+
+          # Commit changes if any were made
+          git diff --quiet || (git add README.md && git commit -m "Update README stats" && git push)
+        
+      - name: Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Your update script goes here, for example:
-          # echo "Updating README with GitHub activity"
-
-          # Check if README.md is modified
-          git diff --quiet || (git add README.md && git commit -m "Update README stats" && git push)
+          git push
