@@ -11,13 +11,13 @@ on:
   issue_comment:
     types: [created, edited]
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * *"
 
 jobs:
   update-readme:
     name: Update GitHub README with latest stats and activity
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
@@ -34,10 +34,9 @@ jobs:
 
           # Commit changes if any were made
           git diff --quiet || (git add README.md && git commit -m "Update README with latest stats and activity")
-        
+
       - name: Push Changes
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          # Push changes to the main branch
-          git push "https://${{ secrets.PAT_TOKEN }}@github.com/ravin00/ravin00.git" HEAD:main
+          git push origin HEAD:main
