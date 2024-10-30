@@ -1,22 +1,21 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Profile Stats and Activity
 
 on:
   push:
     branches:
       - main
   pull_request:
-    branches:
-      - main
+    types: [opened, closed, reopened]
   issues:
     types: [opened, closed, reopened]
   issue_comment:
     types: [created, edited]
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "*/30 * * * *"
 
 jobs:
   update-readme:
-    name: Update GitHub README with latest stats
+    name: Update GitHub README with latest stats and activity
     runs-on: ubuntu-latest
     
     steps:
@@ -34,10 +33,11 @@ jobs:
           sed -i 's|username=ravin00&|username=ravin00&v=$(date +%s)&|g' README.md
 
           # Commit changes if any were made
-          git diff --quiet || (git add README.md && git commit -m "Update README stats")
+          git diff --quiet || (git add README.md && git commit -m "Update README with latest stats and activity")
         
       - name: Push Changes
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
+          # Push changes to the main branch
           git push "https://${{ secrets.PAT_TOKEN }}@github.com/ravin00/ravin00.git" HEAD:main
