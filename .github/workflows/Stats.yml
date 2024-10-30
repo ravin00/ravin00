@@ -25,7 +25,7 @@ jobs:
       - name: Set Up Git
         run: |
           git config --global user.name "ravin00"
-          git config --global user.email "it22354174@my.sliit.lk"
+          git config --global user.email "ravinbandara76@gmail.com"
       
       - name: Update README
         run: |
