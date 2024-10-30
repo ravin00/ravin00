@@ -1,0 +1,45 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          username: your_username
+          show_icons: true
+          count_private: true  # Include private repo stats
+          theme: radical  # Choose a theme
+      - uses: actions/upload-artifact@v2
+        with:
+          name: readme-stats
+          path: README.md
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: actions/checkout@v2
+        with:
+          path: dist
+          fetch-depth: 0
+      - run: cp README.md dist
+      - uses: actions/github-script@v5
+        with:
+          script: |
+            github.rest.repos.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              committer: {
+                name: 'ravin00',
+                email: 'ravinbandara76@gmail.com'
+              },
+              message: 'Update README with latest stats',
+              files: [{
+                filename: 'README.md',
+                content: context.payload.artifacts[0].node.file_size > 0 ? context.payload.artifacts[0].node.download_url : null
+              }]
+            })
