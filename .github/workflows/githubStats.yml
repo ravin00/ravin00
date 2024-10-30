@@ -12,7 +12,8 @@ on:
   issue_comment:
     types: [created, edited]
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+
 jobs:
   update-readme:
     name: Update GitHub README with latest stats
@@ -37,6 +38,6 @@ jobs:
         
       - name: Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/ravin00/ravin00.git" HEAD:main
+          git push "https://${{ secrets.PAT_TOKEN }}@github.com/ravin00/ravin00.git" HEAD:main
