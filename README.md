@@ -14,5 +14,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆 My Stack
+## My Stack
 [![My Stack](https://skillicons.dev/icons?i=js,html,css,js,ts,nextjs,react,)](https://skillicons.dev)
