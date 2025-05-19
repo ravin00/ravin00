@@ -17,3 +17,5 @@ Passionate About:
 - I also love contributing to open-source projects to foster innovation and deepen my learning.
 
 - P.S. My interests are always evolving, and I regularly update them as I grow in my career!
+
+- Proficient in .NET, Java, JavaScript, and TypeScript.
