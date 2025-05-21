@@ -18,4 +18,4 @@ Passionate About:
 
 - P.S. My interests are always evolving, and I regularly update them as I grow in my career!
 
-- Proficient in .NET, Java, JavaScript, and TypeScript.
+- Proficient in .NET, Springboot, JavaScript, and TypeScript.
