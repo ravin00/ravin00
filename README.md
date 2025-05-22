@@ -1,6 +1,6 @@
 About Me - Ravin Bandara
 
-I am currently diving into the world of DevOps, Site Reliability Engineering (SRE), and Machine Learning. As I explore new fields and technologies, my interests continue to evolve.
+I am currently diving into the world of DevOps, Site Reliability Engineering (SRE), and Software Engineering. As I explore new fields and technologies, my interests continue to evolve.
 
 Passionate About:
 
