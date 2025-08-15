@@ -1,21 +1,50 @@
-About Me - Ravin Bandara
+# 👋 Hi, I'm Ravin Bandara
 
-I am currently diving into the world of DevOps, Site Reliability Engineering (SRE), and Software Engineering. As I explore new fields and technologies, my interests continue to evolve.
+💻 **Full-Stack Engineer | DevOps & SRE Enthusiast | Problem Solver**  
 
-Passionate About:
+I specialize in building **scalable, reliable, and high-performance software systems** by combining expertise in **Full-Stack Development** with **DevOps** practices.  
+My goal is to design, develop, and maintain applications that are not only functional but also robust, secure, and optimized for performance.
 
-- Full-Stack Development: Building seamless, end-to-end software solutions that deliver great user experiences and solve complex problems.
+---
 
-- Software Engineering: Applying best practices to design, develop, and maintain efficient, scalable, and robust systems.
+## 🚀 Current Focus
+- Developing **end-to-end web applications** using **React, Next.js, Spring Boot, .NET, and Go**
+- Designing **CI/CD pipelines** to improve deployment efficiency and reduce release cycles
+- Implementing **cloud-native architectures** with **Docker, Kubernetes, and AWS**
+- Applying **Site Reliability Engineering (SRE)** practices to ensure availability and scalability
 
-- DevOps: Leveraging automation and CI/CD to streamline development workflows and deployment pipelines.
+---
 
-- SRE: Enhancing system reliability, performance, and availability to ensure the systems I work on are scalable and resilient.
+## 💡 Areas of Expertise
+- **Full-Stack Development:** Creating seamless user interfaces with powerful backend systems
+- **DevOps & Automation:** Streamlining workflows, infrastructure as code, and continuous delivery
+- **Cloud Engineering:** Designing and deploying cloud solutions on AWS
+- **SRE:** Monitoring, performance optimization, and incident management
+- **Machine Learning:** Exploring practical applications to enhance systems and decision-making
+- **Open-Source Contributions:** Sharing knowledge and improving community-driven projects
 
-- Machine Learning: Investigating how ML can be used to solve real-world challenges, drive innovation, and improve systems.
+---
 
-- I also love contributing to open-source projects to foster innovation and deepen my learning.
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Spring Boot, .NET, Go (Golang), Node.js, Express.js  
+**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Terraform, Pulumi, AWS  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Others:** Git, REST APIs, GraphQL
 
-- P.S. My interests are always evolving, and I regularly update them as I grow in my career!
+---
 
-- Proficient in .NET, Springboot, JavaScript, and TypeScript.
+## 📚 Currently Learning
+- Advanced **Kubernetes** deployments and scaling strategies
+- **Service reliability patterns** for distributed systems
+- **Cloud cost optimization** and FinOps principles
+
+---
+
+## 📫 Connect
+- **GitHub:** [ravin00](https://github.com/ravin00)  
+- **LinkedIn:** [Ravin Bandara](https://www.linkedin.com/in/ravin-bandara/)  
+
+---
+
+💡 *"Engineering excellence is achieved when software is not only built to work but built to last."*
