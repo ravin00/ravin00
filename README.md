@@ -1,4 +1,4 @@
-# Hey there, I'm Ravin Bandara
+# Hey there, I'm Ravin Bandara 🤓
 
 Full-Stack Developer | DevOps Explorer | Code Tinkerer  
 
