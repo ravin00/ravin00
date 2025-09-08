@@ -13,7 +13,7 @@ Mostly focused on **Full-Stack Development** and **DevOps**, but always curious 
 
 ## Tech I Like to Play With
 **Frontend:** React, Next.js, TypeScript, JavaScript  
-**Backend:** Spring Boot, .NET, Go, Node.js  
+**Backend:** Spring Boot, .NET 
 **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD, Terraform  
 **Databases:** MySQL, PostgreSQL, MongoDB  
 
