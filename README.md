@@ -6,7 +6,7 @@ I turn coffee into code, bugs into features, and cloud chaos into reliable deplo
 Mostly focused on **Full-Stack Development** and **DevOps**, but always curious about what’s next.
 
 ## What I Actually Do
-- Build end-to-end web apps with **React, Next.js, Spring Boot, .NET, and Go**  
+- Build end-to-end web apps with **React, Next.js, Spring Boot and .NET
 - Automate deployments so my servers don’t complain  
 - Keep systems reliable and scalable, because downtime is scary  
 - Experiment with **machine learning** and other “fun stuff”
