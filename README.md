@@ -1,6 +1,6 @@
 # Hi, I'm Ravin Bandara 🤓
 
-**Full-Stack Developer | DevOps Enthusiast | Cloud & Automation Practitioner**  
+**Full-Stack Developer | DevOps Enthusiast **  
 
 I build scalable web applications and streamline deployments to ensure system reliability. Passionate about **Full-Stack Development** and **DevOps**, I love solving complex problems and exploring new technologies.
 
@@ -17,25 +17,33 @@ I build scalable web applications and streamline deployments to ensure system re
 ## 💻 Tech Stack
 
 **Frontend:**  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" style="border-radius:50%;margin:5px;" />
+</p>
 
 **Backend:**  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET" width="50" height="50" style="border-radius:50%;margin:5px;" />
+</p>
 
 **DevOps & Cloud:**  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="50" height="50" style="border-radius:50%;margin:5px;" />
+</p>
 
 **Databases:**  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" height="50" style="border-radius:50%;margin:5px;" />  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" height="50" style="border-radius:50%;margin:5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50" style="border-radius:50%;margin:5px;" />
+</p>
 
 ---
 
