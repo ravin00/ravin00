@@ -17,25 +17,25 @@ I build scalable web applications and streamline deployments to ensure system re
 ## 💻 Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&logoWidth=20) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&logoWidth=20) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000&logoWidth=20) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000&logoWidth=20)  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50" style="border-radius:50%;margin:5px;" />  
 
 **Backend:**  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000&logoWidth=20) 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=000000&logoWidth=20)  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET" width="50" height="50" style="border-radius:50%;margin:5px;" />  
 
 **DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&logoWidth=20) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000&logoWidth=20) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000&logoWidth=20) 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000&logoWidth=20)  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="50" height="50" style="border-radius:50%;margin:5px;" />  
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000&logoWidth=20) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000&logoWidth=20) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000&logoWidth=20)  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" height="50" style="border-radius:50%;margin:5px;" />  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" height="50" style="border-radius:50%;margin:5px;" />  
 
 ---
 
