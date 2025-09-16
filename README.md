@@ -1,6 +1,7 @@
 # Hi, I'm Ravin Bandara 🤓
 
-**Full-Stack Developer | DevOps Enthusiast | Cloud & Automation Practitioner**  
+**Full-Stack Developer | DevOps Enthusiast 
+
 
 I build scalable web applications and streamline deployments to ensure system reliability. Passionate about **Full-Stack Development** and **DevOps**, I love solving complex problems and exploring new technologies.
 
