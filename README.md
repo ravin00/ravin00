@@ -55,7 +55,3 @@ I am focused on optimizing system performance, ensuring infrastructure reliabili
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-### GitHub Activity
-
-![Ravin Bandara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=false&count_private=true&border_color=e4e2e2)
