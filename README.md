@@ -1,26 +1,23 @@
-# Hi, I'm Ravin Bandara 🤓
+# Ravin Bandara
+### Full-Stack Software Developer | DevOps & Cloud Engineering
 
-### Full-Stack Developer | DevOps Enthusiast
+Software developer specializing in the design and implementation of scalable, high-availability web applications. My expertise lies in building robust backend systems with **Go (Golang)** and **.NET**, developing modern frontends with **React** and **Next.js**, and managing end-to-end deployment pipelines.
 
-I'm a developer passionate about building scalable, high-availability web applications and streamlining deployments. I specialize in backend systems using **Go (Golang)** and **.NET**, while also building end-to-end solutions with **React** and **Next.js**.
-
-I thrive on solving complex problems, optimizing operational workflows, and contributing to open-source projects.
-
----
-
-### 🚀 What I Do
-
-* Build resilient backend services and APIs using **Go** and **.NET**.
-* Develop modern, responsive UIs with **React**, **Next.js**, and **TypeScript**.
-* Design and implement CI/CD pipelines for automated, reliable deployments.
-* Maintain and optimize high-availability cloud environments (primarily **AWS**).
-* Experiment with Machine Learning and other emerging technologies.
+I am focused on optimizing system performance, ensuring infrastructure reliability, and solving complex technical challenges.
 
 ---
 
-### 💻 My Tech Stack
+### Core Competencies
 
-Here are the primary technologies I work with:
+* Developing and maintaining resilient backend services and APIs using **Go** and **.NET**.
+* Building responsive, modern user interfaces with **React**, **Next.js**, and **TypeScript**.
+* Designing and implementing CI/CD pipelines to ensure automated and reliable software delivery.
+* Managing and optimizing high-availability cloud infrastructure, with a primary focus on **AWS**.
+* Evaluating and integrating emerging technologies, including Machine Learning, to drive innovation.
+
+---
+
+### Technology Stack
 
 **Frontend:**
 <br>
@@ -50,7 +47,7 @@ Here are the primary technologies I work with:
 
 ---
 
-### 📫 Let's Connect!
+### Contact & Professional Links
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -59,6 +56,6 @@ Here are the primary technologies I work with:
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### 📊 My GitHub Stats
+### GitHub Activity
 
-![Ravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravin00&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Ravin Bandara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=false&count_private=true&border_color=e4e2e2)
