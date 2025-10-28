@@ -15,25 +15,6 @@ Software developer specializing in scalable, high-availability web applications.
 
 ---
 
-### Technology Stack
-
-#### Backend & Languages  
-[![My Skills](https://skillicons.dev/icons?i=go,dotnet,typescript,javascript,python&perline=6)](https://skillicons.dev)
-
-#### Frontend & UI  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=6)](https://skillicons.dev)
-
-#### Databases  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6)](https://skillicons.dev)
-
-#### DevOps & Cloud  
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,azure,gcp&perline=6)](https://skillicons.dev)
-
-#### Tools & Testing  
-[![My Skills](https://skillicons.dev/icons?i=git,selenium,cypress,mocha,postman,chartjs&perline=6)](https://skillicons.dev)
-
----
-
 ### Contact & Professional Links
 <a href="https://linkedin.com/in/ravin-bandara" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
