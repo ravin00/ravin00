@@ -1,19 +1,17 @@
 # Ravin Bandara
 ### Full-Stack Software Developer | DevOps & Cloud Engineering
 
-Software developer specializing in the design and implementation of scalable, high-availability web applications. My expertise lies in building robust backend systems with **Go (Golang)** and **.NET**, developing modern frontends with **React** and **Next.js**, and managing end-to-end deployment pipelines.
-
-I am focused on optimizing system performance, ensuring infrastructure reliability, and solving complex technical challenges.
+Software developer specializing in scalable, high-availability web applications. Skilled in **Go**, **.NET**, **React**, **Next.js**, and DevOps with **AWS**. Focused on building efficient, reliable systems and learning new technologies in Full Stack and DevOps.
 
 ---
 
 ### Core Competencies
 
-* Developing and maintaining resilient backend services and APIs using **Go** and **.NET**.
-* Building responsive, modern user interfaces with **React**, **Next.js**, and **TypeScript**.
-* Designing and implementing CI/CD pipelines to ensure automated and reliable software delivery.
-* Managing and optimizing high-availability cloud infrastructure, with a primary focus on **AWS**.
-* Evaluating and integrating emerging technologies, including Machine Learning, to drive innovation.
+* Backend development with **Go** and **.NET**.
+* Frontend development with **React**, **Next.js**, and **TypeScript**.
+* CI/CD pipelines and infrastructure automation.
+* Cloud architecture and optimization (**AWS**).
+* Exploring emerging technologies including Machine Learning.
 
 ---
 
@@ -28,7 +26,7 @@ I am focused on optimizing system performance, ensuring infrastructure reliabili
 
   <!-- Frontend & UI -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 
   <!-- Databases -->
@@ -48,7 +46,7 @@ I am focused on optimizing system performance, ensuring infrastructure reliabili
   <a href="https://www.selenium.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/></a>
   <a href="https://www.cypress.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" alt="Cypress" width="40" height="40"/></a>
   <a href="https://mochajs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
+  <a href="https://www.chartjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="Chart.js" width="40" height="40"/></a>
 </p>
 
 ---
