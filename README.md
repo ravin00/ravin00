@@ -1,20 +1,6 @@
 <h1 align="center">Hey there! I'm Ravin Bandara 👋</h1>
 
-<p align="center">
-  <a href="https://twitter.com/[YOUR_TWITTER_HANDLE]">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="TwitterBadge">
-  </a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE]">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedinBadge">
-  </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM_HANDLE]/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="InstagramBadge">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Ravin's Profile Views" />
-</p>
+<a href="https://www.linkedin.com/in/ravin-bandara-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://ravin00.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/web%20portfolio-8A2BE2?&style=flat-square" alt="website"></a>
 
 <br>
 
@@ -32,12 +18,11 @@
 
 ### 🧐 About Me
 
-I am an undergraduate student at **SLIIT**, pursuing a B.Sc. (Hons) in Information Technology. When I'm not fighting with the compiler, I'm bridging the gap between development and operations.
+I am an undergraduate student at **SLIIT**. When I'm not fighting with the compiler, I'm bridging the gap between development and operations.
 
-- 🔭 **Currently working on:** **EduMind** (AI-driven learning analytics) and convincing my code to work on the first try.
+- 🔭 **Currently working on:** Various projects and convincing my code to work on the first try.
 - 🌱 **Currently exploring:** Kubernetes (because standard deployment is too easy), Terraform, and MLOps.
 - ⚡ **Fun fact:** I treat infrastructure as code and sleep as optional.
-- 📫 **Reach me:** [YourEmail@example.com](mailto:YourEmail@example.com)
 
 ---
 
