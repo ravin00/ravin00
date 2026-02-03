@@ -21,7 +21,7 @@
 I am an undergraduate student at **SLIIT**. When I'm not fighting with the compiler, I'm bridging the gap between development and operations.
 
 - 🔭 **Currently working on:** Various projects and convincing my code to work on the first try.
-- 🌱 **Currently exploring:** Kubernetes (because standard deployment is too easy), Terraform, and MLOps.
+- 🌱 **Currently exploring:** Kubernetes (because standard deployment is too easy), and my techstack.
 - ⚡ **Fun fact:** I treat infrastructure as code and sleep as optional.
 
 ---
