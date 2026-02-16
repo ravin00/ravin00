@@ -1,6 +1,11 @@
 <h1 align="center">Hey there! I'm Ravin Bandara 👋</h1>
 
-<a href="https://www.linkedin.com/in/ravin-bandara-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://ravin00.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/web%20portfolio-8A2BE2?&style=flat-square" alt="website"></a>
+<a href="https://www.linkedin.com/in/ravin-bandara-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://ravin00.github.io/my-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/web%20portfolio-8A2BE2?&style=flat-square" alt="website">
+</a>
 
 <br>
 
@@ -8,106 +13,108 @@
   <img height="200" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" alt="coding gif" />
 </div>
 
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast </h3>
+<h3 align="center">Full-Stack Developer | DevOps Enthusiast</h3>
 
 <p align="center">
- <i>"I turn coffee into code and anxiety into functionality."</i> ☕ ➡️ 💻
+  <i>"I turn coffee into code and anxiety into functionality."</i> ☕ ➡️ 💻
 </p>
 
----
+<hr>
 
-### 🧐 About Me
+<h3>🧐 About Me</h3>
 
-I am an undergraduate student at **SLIIT**. When I'm not fighting with the compiler, I'm bridging the gap between development and operations.
+<p>
+  I am an undergraduate student at <b>SLIIT</b>. When I'm not fighting with the compiler, I'm bridging the gap between development and operations.
+</p>
 
-- 🔭 **Currently working on:** Various projects and convincing my code to work on the first try.
-- 🌱 **Currently exploring:** Kubernetes (because standard deployment is too easy), and my techstack.
-- ⚡ **Fun fact:** I treat infrastructure as code and sleep as optional.
+<ul>
+  <li>🔭 <b>Currently working on:</b> Various projects and convincing my code to work on the first try.</li>
+  <li>🌱 <b>Currently exploring:</b> Kubernetes (because standard deployment is too easy), and my techstack.</li>
+  <li>⚡ <b>Fun fact:</b> I treat infrastructure as code and sleep as optional.</li>
+</ul>
 
----
+<hr>
 
-### 🛠 The "It Works On My Machine" Stack
+<h3>🛠 The "It Works On My Machine" Stack</h3>
 
-Here are the tools I use to break production (and fix it immediately after):
+<p>Here are the tools I use to break production (and fix it immediately after):</p>
 
-<div align="center">
-  <table style="margin: 0 auto;">
-    <thead>
-      <tr>
-        <th>The "Fluent" Zone (Languages)</th>
-        <th>The "Heavy Lifters" (Frameworks)</th>
-        <th>The "Please Don't Crash" (Infra & DevOps)</th>
-      </tr>
-    </thead>
+<!-- START STACK TABLE -->
+<table>
+  <thead>
+    <tr>
+      <th align="center">The "Fluent" Zone (Languages)</th>
+      <th align="center">The "Heavy Lifters" (Frameworks)</th>
+      <th align="center">The "Please Don't Crash" (Infra & DevOps)</th>
+    </tr>
+  </thead>
 
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40" height="40" alt="C#"/><br/>
-          <b>C#</b><br/><i>(My comfort blanket)</i>
-        </td>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40" height="40" alt="C#"/><br/>
+        <b>C#</b><br/><i>(My comfort blanket)</i>
+      </td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/><br/>
-          <b>.NET</b><br/><i>(Old reliable)</i>
-        </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/><br/>
+        <b>.NET</b><br/><i>(Old reliable)</i>
+      </td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40" height="40" alt="Docker"/><br/>
-          <b>Docker</b><br/><i>("But it worked in the container!")</i>
-        </td>
-      </tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40" height="40" alt="Docker"/><br/>
+        <b>Docker</b><br/><i>("But it worked in the container!")</i>
+      </td>
+    </tr>
 
-      <tr>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="40" height="40" alt="TypeScript"/><br/>
-          <b>TypeScript</b><br/><i>(JS, but with trust issues)</i>
-        </td>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="40" height="40" alt="TypeScript"/><br/>
+        <b>TypeScript</b><br/><i>(JS, but with trust issues)</i>
+      </td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" alt="React"/><br/>
-          <b>React</b><br/><i>(Hooks &gt; Classes, fight me)</i>
-        </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" alt="React"/><br/>
+        <b>React</b><br/><i>(Hooks &gt; Classes, fight me)</i>
+      </td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s"/><br/>
-          <b>Kubernetes</b><br/><i>(Orchestrating chaos)</i>
-        </td>
-      </tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" width="40" height="40" alt="K8s"/><br/>
+        <b>Kubernetes</b><br/><i>(Orchestrating chaos)</i>
+      </td>
+    </tr>
 
-      <tr>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" alt="JS"/><br/>
-          <b>JavaScript</b><br/><i>(For the thrill of <code>undefined</code>)</i>
-        </td>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" alt="JS"/><br/>
+        <b>JavaScript</b><br/><i>(For the thrill of <code>undefined</code>)</i>
+      </td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br/>
-          <b>Django</b><br/><i>(Batteries included)</i>
-        </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br/>
+        <b>Django</b><br/><i>(Batteries included)</i>
+      </td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="40" height="40" alt="AWS"/><br/>
-          <b>AWS</b><br/><i>(Helping Bezos buy rockets 🚀)</i>
-        </td>
-      </tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="40" height="40" alt="AWS"/><br/>
+        <b>AWS</b><br/><i>(Helping Bezos buy rockets 🚀)</i>
+      </td>
+    </tr>
 
-      <tr>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" alt="Python"/><br/>
-          <b>Python</b><br/><i>(Readable sorcery)</i>
-        </td>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" alt="Python"/><br/>
+        <b>Python</b><br/><i>(Readable sorcery)</i>
+      </td>
 
-        <td align="center"></td>
+      <td align="center"></td>
 
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>
-          <b>Linux</b><br/><i>(Sudo make me a sandwich)</i>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>
+        <b>Linux</b><br/><i>(Sudo make me a sandwich)</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
----
+<hr>
