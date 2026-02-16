@@ -38,6 +38,7 @@ Here are the tools I use to break production (and fix it immediately after):
 | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" alt="JS"/><br/><b>JavaScript</b><br/><i>(For the thrill of `undefined`)</i> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br/><b>Django</b><br/><i>(Batteries included)</i> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="40" height="40" alt="AWS"/><br/><b>AWS</b><br/><i>(Helping Bezos buy rockets 🚀)</i> |
 | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" alt="Python"/><br/><b>Python</b><br/><i>(Readable sorcery)</i> |  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/><b>Linux</b><br/><i>(Sudo make me a sandwich)</i> |
 
+
 </div>
 
 ---
